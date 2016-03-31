@@ -1,1 +1,1 @@
-This function grabs a random adjective and noun using Wordnik's API. The corpus counts, dictionary appearances and other parameters can either be set in the API URL or by going to Wordnik's dev site and grabbing a new URL from the API docs.
+This function grabs a random adjective and noun using Wordnik's API. The corpus counts, dictionary appearances and other parameters can either be set in the API URL or by going to Wordnik's dev site and grabbing a new URL from the API docs here: http://developer.wordnik.com/docs.html#!/words/getRandomWord_get_4
