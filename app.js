@@ -36,7 +36,7 @@ function fetchNoun() {
 // jQuery jazz
 $("button").on("click", function(event){
    event.preventDefault();
-   $(".new").prepend("<h4>" + capitalize(fetchAdjective()) + "      " + capitalize(fetchNoun()) + "</h4>");
+   $(".new").prepend("<div class=\"name\"><h4>" + capitalize(fetchAdjective()) + "      " + capitalize(fetchNoun()) + "</div></h4>");
 });
 
 
